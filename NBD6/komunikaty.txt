@@ -1,0 +1,9 @@
+Wrzucenie do bazy:
+Pobranie z bazy i wypisanie:
+{"baseHP": 600, "range": true, "name": "Ezreal", "attackSpeed": 0.72}
+Modyfikacja:
+Pobranie z bazy i wypisanie:
+{"baseHP": 666, "range": true, "name": "Ezreal", "attackSpeed": 0.72}
+Usuniecie z bazy:
+Proba pobrania z bazy:
+None
